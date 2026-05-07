@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296338087383",
+    "project_id": "mediatech-670ec",
+    "storage_bucket": "mediatech-670ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296338087383:android:97ceed11a7ee26ab887f92",
+        "android_client_info": {
+          "package_name": "com.example.mediatech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEaLpLYuvvcifbLxhfo4lSJgf1TRseYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
